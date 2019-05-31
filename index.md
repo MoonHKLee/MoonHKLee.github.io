@@ -3,7 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
-title: 이문혁의 
+title: 이문혁의 블로그
 icon: fa-home
 order: 1
 ---

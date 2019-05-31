@@ -5,5 +5,5 @@
 layout: home
 title: 이문혁의 블로그
 icon: fa-home
-order: 1
+order: 3
 ---
